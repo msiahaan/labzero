@@ -14,3 +14,6 @@
   - Using nvm and npm for FE environment setup
   - Using laravel-mix to organize FE assets
   - Custom project cli with click
+
+## Want to learn more?
+Join belajarpython telegram group - https://t.me/belajarpythonbot
