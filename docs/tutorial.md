@@ -16,4 +16,4 @@
   - Custom project cli with click
 
 ## Want to learn more?
-Join belajarpython telegram group - https://t.me/belajarpythonbot
+Join Belajar Python telegram group - https://t.me/belajarpythonbot
