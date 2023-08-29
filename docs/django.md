@@ -12,3 +12,8 @@ Luke Plant's [Django Views The Right Way][plant] has more extensive write up on 
 
 [plant]:https://spookylukey.github.io/django-views-the-right-way/
 [406ch]:http://web.archive.org/web/20230819023839/https://406.ch/writing/composition-over-inheritance-the-case-for-function-based-views/
+
+## Use TemplateResponse instead of render()
+[TemplateResponse] allows middleware to alter the contex data as it's not rendered immediately like `render()`.
+
+[TemplateResponse]:https://docs.djangoproject.com/en/4.2/ref/template-response/
